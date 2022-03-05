@@ -1,0 +1,239 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Lily1",
+      "email": "L1@gmail.com",
+      "password": "123456",
+      "role": "admin",
+      "phoneNumber": "082110517592",
+      "address": "Jakarta",
+      "createdAt": "2022-01-01 01:01:010",
+      "updatedAt": "2022-01-01 01:01:010"
+    },
+    {
+      "id": 2,
+      "username": "Lily2",
+      "email": "L2@gmail.com",
+      "password": "123456",
+      "role": "admin",
+      "phoneNumber": "082110517592",
+      "address": "Jakarta",
+      "createdAt": "2022-01-01 01:01:010",
+      "updatedAt": "2022-01-01 01:01:010"
+    },
+    {
+      "email": "L3@gmail.com",
+      "password": "123456",
+      "username": "Lily3",
+      "phoneNumber": "082110517592",
+      "address": "jakarta",
+      "role": "admin",
+      "createdAt": "2022-03-01T12:26:31.469Z",
+      "updatedAt": "2022-03-01T12:26:31.469Z",
+      "id": 3
+    },
+    {
+      "email": "Aelita",
+      "password": "123456",
+      "username": "A1@gmail.com",
+      "phoneNumber": "082110517592",
+      "address": "jakarta",
+      "role": "admin",
+      "createdAt": "2022-03-02T04:47:15.714Z",
+      "updatedAt": "2022-03-02T04:47:15.714Z",
+      "id": 4
+    },
+    {
+      "email": "Kernel",
+      "password": "123456",
+      "username": "K1@gmail.com",
+      "phoneNumber": "082110517592",
+      "address": "jakarta",
+      "role": "admin",
+      "createdAt": "2022-03-02T08:34:08.089Z",
+      "updatedAt": "2022-03-02T08:34:08.089Z",
+      "id": 5
+    },
+    {
+      "email": "R1@gmail.com",
+      "password": "123456",
+      "username": "Randra",
+      "phoneNumber": "082110517592",
+      "address": "jkt",
+      "role": "admin",
+      "createdAt": "2022-03-02T17:17:33.410Z",
+      "updatedAt": "2022-03-02T17:17:33.410Z",
+      "id": 6
+    },
+    {
+      "email": "Z1@gmail.com",
+      "password": "123456",
+      "username": "Z1",
+      "phoneNumber": "082110517592",
+      "address": "jkt",
+      "role": "admin",
+      "createdAt": "2022-03-02T18:25:56.513Z",
+      "updatedAt": "2022-03-02T18:25:56.513Z",
+      "id": 7
+    },
+    {
+      "email": "Z2@gmail.com",
+      "password": "123456",
+      "username": "Zzzz",
+      "phoneNumber": "082110517592",
+      "address": "jkt",
+      "role": "admin",
+      "createdAt": "2022-03-02T18:29:07.004Z",
+      "updatedAt": "2022-03-02T18:29:07.004Z",
+      "id": 8
+    },
+    {
+      "email": "Z3@gmail.com",
+      "password": "123456",
+      "username": "ZZZZZZ",
+      "phoneNumber": "082110517592",
+      "address": "jkt",
+      "role": "admin",
+      "createdAt": "2022-03-02T18:30:18.177Z",
+      "updatedAt": "2022-03-02T18:30:18.177Z",
+      "id": 9
+    },
+    {
+      "email": "C@gmail.com",
+      "password": "123456",
+      "username": "Capek",
+      "phoneNumber": "082110517592",
+      "address": "jkt",
+      "role": "admin",
+      "createdAt": "2022-03-02T18:34:02.133Z",
+      "updatedAt": "2022-03-02T18:34:02.133Z",
+      "id": 10
+    },
+    {
+      "email": "H@gmail.com",
+      "password": "123456",
+      "username": "HAHA",
+      "phoneNumber": "082110517592",
+      "address": "jkt",
+      "role": "admin",
+      "createdAt": "2022-03-02T18:35:44.155Z",
+      "updatedAt": "2022-03-02T18:35:44.155Z",
+      "id": 11
+    },
+    {
+      "email": "H2@gmail.com",
+      "password": "123456",
+      "username": "HAHI",
+      "phoneNumber": "082110517592",
+      "address": "jkt",
+      "role": "admin",
+      "createdAt": "2022-03-02T18:37:26.274Z",
+      "updatedAt": "2022-03-02T18:37:26.274Z",
+      "id": 12
+    },
+    {
+      "email": "kop@gmail.com",
+      "password": "123456",
+      "username": "kop",
+      "phoneNumber": "082110517592",
+      "address": "jkt",
+      "role": "admin",
+      "createdAt": "2022-03-02T18:38:14.197Z",
+      "updatedAt": "2022-03-02T18:38:14.197Z",
+      "id": 13
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "shoes",
+      "createdAt": "2022-01-01 01:01:010",
+      "updatedAt": "2022-01-01 01:01:010"
+    },
+    {
+      "id": 2,
+      "name": "shirt",
+      "createdAt": "2022-01-01 01:01:010",
+      "updatedAt": "2022-01-01 01:01:010"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "My Converse Shoes",
+      "slug": "my-converse-shoes",
+      "description": "this is converse shoes",
+      "price": 10000,
+      "mainImg": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2020/7/20/908bb21e-2d57-45e9-83f9-87172e383123.jpg",
+      "categoryId": 1,
+      "authorId": 1,
+      "createdAt": "2022-01-01 01:01:010",
+      "updatedAt": "2022-01-01 01:01:010"
+    },
+    {
+      "id": 2,
+      "name": "Shirt Flannel",
+      "slug": "shirt-flannel",
+      "description": "this is flannel shirt",
+      "price": 10000,
+      "mainImg": "https://im.berrybenka.com/assets/upload/product/zoom/285932_jordy-flannel-shirt-red_red_ZLE0Q.jpg",
+      "categoryId": 1,
+      "authorId": 1,
+      "createdAt": "2022-01-01 01:01:010",
+      "updatedAt": "2022-01-01 01:01:010"
+    },
+    {
+      "name": "Yellow Jacket",
+      "price": 10000,
+      "mainImg": "https://ridestore.imgix.net/catalog/product/E/9/E9865_1.jpg",
+      "description": "This is Yellow Jacket",
+      "categoryId": "2",
+      "authorId": "4",
+      "createdAt": "2022-03-02T04:51:43.845Z",
+      "updatedAt": "2022-03-02T04:51:43.845Z",
+      "slug": "yellow-jacket",
+      "id": 23
+    },
+    {
+      "name": "Yellow Jacket",
+      "price": 10000,
+      "mainImg": "https://ridestore.imgix.net/catalog/product/E/9/E9865_1.jpg",
+      "description": "This is Yellow Jacket",
+      "categoryId": "2",
+      "authorId": "4",
+      "createdAt": "2022-03-02T04:51:43.845Z",
+      "updatedAt": "2022-03-02T04:51:43.845Z",
+      "slug": "yellow-jacket",
+      "id": 24
+    },
+    {
+      "name": "Yellow Jacket",
+      "price": 10000,
+      "mainImg": "https://ridestore.imgix.net/catalog/product/E/9/E9865_1.jpg",
+      "description": "This is Yellow Jacket",
+      "categoryId": "2",
+      "authorId": "4",
+      "createdAt": "2022-03-02T04:51:43.845Z",
+      "updatedAt": "2022-03-02T04:51:43.845Z",
+      "slug": "yellow-jacket",
+      "id": 25
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "productId": 1,
+      "imgUrl": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2020/7/20/908bb21e-2d57-45e9-83f9-87172e383123.jpg",
+      "createdAt": "2022-01-01 01:01:010",
+      "updatedAt": "2022-01-01 01:01:010"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "imgUrl": "https://im.berrybenka.com/assets/upload/product/zoom/285932_jordy-flannel-shirt-red_red_ZLE0Q.jpg",
+      "createdAt": "2022-01-01 01:01:010",
+      "updatedAt": "2022-01-01 01:01:010"
+    }
+  ]
+}
